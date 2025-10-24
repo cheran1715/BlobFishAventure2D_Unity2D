@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - WaterIN
+  - Platform
+  - OnPlatform
+  - Enemy
+  - Checkpoint
+  - NextLevel
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cloud1
+    uniqueID: 1005655769
+    locked: 0
+  - name: Grass Grond 1
+    uniqueID: 3973693497
+    locked: 0
+  - name: Grass Grond 2
+    uniqueID: 4284988803
+    locked: 0
+  - name: ForeGround1
+    uniqueID: 3358551327
+    locked: 0
+  - name: ForeGround1.5
+    uniqueID: 822678093
+    locked: 0
+  - name: Bush1
+    uniqueID: 951196645
+    locked: 0
+  - name: ForeGround2
+    uniqueID: 1956467075
+    locked: 0
+  - name: Bush2
+    uniqueID: 3395096333
+    locked: 0
+  - name: Rock
+    uniqueID: 574526993
+    locked: 0
+  - name: Ground
+    uniqueID: 929210593
+    locked: 0
+  - name: Water
+    uniqueID: 2338099567
+    locked: 0
+  - name: LineRenderer
+    uniqueID: 1430186299
+    locked: 0
+  - name: Fish
+    uniqueID: 3748009911
+    locked: 0
